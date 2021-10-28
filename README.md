@@ -1,0 +1,2 @@
+# predictiveModelling-in-Python
+Write a Python function or module to calculate the average price (over all flights) for each month in the dataset and combine this average price with the school holidays data. This function should output 36 records, one for each month over the 3-year period. Each record should have three fields: the year and month, the average price and the end of school term indicator. 
